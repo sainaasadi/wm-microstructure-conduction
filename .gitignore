@@ -1,0 +1,16 @@
+# data and outputs: never upload participant data
+*.nii
+*.nii.gz
+*.csv
+*.mat
+*.pdf
+figs/
+derivatives/
+
+# system and editor files
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+.ipynb_checkpoints/
